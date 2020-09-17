@@ -1,2 +1,2 @@
 # hello-world
-I want to be a cool tech guy!
+I want to be thecool tech guy!
